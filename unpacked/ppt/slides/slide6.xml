@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:bg>
+      <p:bgPr>
+        <a:solidFill>
+          <a:srgbClr val="F8FAFC"/>
+        </a:solidFill>
+        <a:effectLst/>
+      </p:bgPr>
+    </p:bg>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="2" name="TextBox 1"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="502920" y="256032"/>
+            <a:ext cx="4114800" cy="228600"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="l">
+              <a:defRPr sz="900" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="667085"/>
+                </a:solidFill>
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:t>按可用性选择模型</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="3" name="TextBox 2"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="502920" y="457200"/>
+            <a:ext cx="8046720" cy="411480"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="101828"/>
+                </a:solidFill>
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:t>场景优选矩阵</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="4" name="Rectangle 3"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="502920" y="960120"/>
+            <a:ext cx="685800" cy="36576"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="2DD4BF"/>
+          </a:solidFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:lnRef>
+          <a:fillRef idx="3">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="2">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="6" name="Rounded Rectangle 5"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="7818120" y="1325880"/>
+            <a:ext cx="3566160" cy="3520440"/>
+          </a:xfrm>
+          <a:prstGeom prst="roundRect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="FFFFFF"/>
+          </a:solidFill>
+          <a:ln w="12700">
+            <a:solidFill>
+              <a:srgbClr val="E5E7EB"/>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:lnRef>
+          <a:fillRef idx="3">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="2">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="7" name="TextBox 6"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8092440" y="1600200"/>
+            <a:ext cx="2377440" cy="274320"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square">
+            <a:normAutofit fontScale="92500" lnSpcReduction="20000"/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="l">
+              <a:defRPr sz="1500" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="101828"/>
+                </a:solidFill>
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:t>选择逻辑</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="8" name="TextBox 7"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8092440" y="2057400"/>
+            <a:ext cx="2880360" cy="2331720"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr>
+              <a:lnSpc>
+                <a:spcPct val="150000"/>
+              </a:lnSpc>
+              <a:spcAft>
+                <a:spcPts val="500"/>
+              </a:spcAft>
+              <a:defRPr sz="1200">
+                <a:solidFill>
+                  <a:srgbClr val="101828"/>
+                </a:solidFill>
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="1400" dirty="0"/>
+              <a:t>• </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1400" dirty="0" err="1"/>
+              <a:t>高质感成片：优先万相</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1400" dirty="0"/>
+              <a:t>。</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr>
+              <a:lnSpc>
+                <a:spcPct val="150000"/>
+              </a:lnSpc>
+              <a:spcAft>
+                <a:spcPts val="500"/>
+              </a:spcAft>
+              <a:defRPr sz="1200">
+                <a:solidFill>
+                  <a:srgbClr val="101828"/>
+                </a:solidFill>
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="1400" dirty="0">
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:rPr>
+              <a:t>• </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1400" dirty="0" err="1">
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:rPr>
+              <a:t>批量</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1400" dirty="0">
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:rPr>
+              <a:t>/</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1400" dirty="0" err="1">
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:rPr>
+              <a:t>中文说明图：优先即梦</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1400" dirty="0">
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:rPr>
+              <a:t>。</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr>
+              <a:lnSpc>
+                <a:spcPct val="150000"/>
+              </a:lnSpc>
+              <a:spcAft>
+                <a:spcPts val="500"/>
+              </a:spcAft>
+              <a:defRPr sz="1200">
+                <a:solidFill>
+                  <a:srgbClr val="101828"/>
+                </a:solidFill>
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="1400" dirty="0"/>
+              <a:t>• PPT </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1400" dirty="0" err="1"/>
+              <a:t>背景与干净底图：优先</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1400" dirty="0"/>
+              <a:t> GLM。</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr>
+              <a:lnSpc>
+                <a:spcPct val="150000"/>
+              </a:lnSpc>
+              <a:spcAft>
+                <a:spcPts val="500"/>
+              </a:spcAft>
+              <a:defRPr sz="1200">
+                <a:solidFill>
+                  <a:srgbClr val="101828"/>
+                </a:solidFill>
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="1400" dirty="0">
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:rPr>
+              <a:t>• </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1400" dirty="0" err="1">
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:rPr>
+              <a:t>真实文字</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1400" dirty="0">
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:rPr>
+              <a:t>/</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1400" dirty="0" err="1">
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:rPr>
+              <a:t>数据</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1400" dirty="0">
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:rPr>
+              <a:t>/</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1400" dirty="0" err="1">
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:rPr>
+              <a:t>架构节点：必须人工校验或用结构化工具重绘</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr sz="1400" dirty="0">
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:rPr>
+              <a:t>。</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:pic>
+        <p:nvPicPr>
+          <p:cNvPr id="9" name="Picture 8" descr="winner_matrix_updated.jpg"/>
+          <p:cNvPicPr>
+            <a:picLocks noChangeAspect="1"/>
+          </p:cNvPicPr>
+          <p:nvPr/>
+        </p:nvPicPr>
+        <p:blipFill>
+          <a:blip r:embed="rId2"/>
+          <a:stretch>
+            <a:fillRect/>
+          </a:stretch>
+        </p:blipFill>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="658368" y="1348740"/>
+            <a:ext cx="6903720" cy="3749039"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+      </p:pic>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+</p:sld>

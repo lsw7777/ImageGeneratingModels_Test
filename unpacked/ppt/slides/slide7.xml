@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:bg>
+      <p:bgPr>
+        <a:solidFill>
+          <a:srgbClr val="F8FAFC"/>
+        </a:solidFill>
+        <a:effectLst/>
+      </p:bgPr>
+    </p:bg>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="2" name="TextBox 1"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="502920" y="256032"/>
+            <a:ext cx="4114800" cy="228600"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="l">
+              <a:defRPr sz="900" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="667085"/>
+                </a:solidFill>
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:t>优势与风险</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="3" name="TextBox 2"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="502920" y="457200"/>
+            <a:ext cx="8046720" cy="411480"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="101828"/>
+                </a:solidFill>
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:t>模型画像</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="4" name="Rectangle 3"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="502920" y="960120"/>
+            <a:ext cx="685800" cy="36576"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="2DD4BF"/>
+          </a:solidFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:lnRef>
+          <a:fillRef idx="3">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="2">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:graphicFrame>
+        <p:nvGraphicFramePr>
+          <p:cNvPr id="5" name="Table 4"/>
+          <p:cNvGraphicFramePr>
+            <a:graphicFrameLocks noGrp="1"/>
+          </p:cNvGraphicFramePr>
+          <p:nvPr/>
+        </p:nvGraphicFramePr>
+        <p:xfrm>
+          <a:off x="685800" y="1207008"/>
+          <a:ext cx="10881360" cy="3080004"/>
+        </p:xfrm>
+        <a:graphic>
+          <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/table">
+            <a:tbl>
+              <a:tblPr firstRow="1" bandRow="1">
+                <a:tableStyleId>{5C22544A-7EE6-4342-B048-85BDC9FD1C3A}</a:tableStyleId>
+              </a:tblPr>
+              <a:tblGrid>
+                <a:gridCol w="1143000">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20000"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="4709160">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20001"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="5029200">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20002"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+              </a:tblGrid>
+              <a:tr h="495300">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>模型</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="0B1220"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>最突出优势</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="0B1220"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>主要风险</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="0B1220"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10000"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="495300">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>万相</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="F1F5F9"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>画面完成度最高，新增技术仪表盘/日志样本视觉上限高</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="F1F5F9"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>英文小字、伪数据和信息过密仍需复核</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="F1F5F9"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10001"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="495300">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>即梦</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>成本最低，覆盖完整，中文说明图稳定</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>部分图过简，精致度略低</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10002"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="495300">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>GLM</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="F1F5F9"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>干净克制，中文标签较可控</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="F1F5F9"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>风格单一，信息密度低</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="F1F5F9"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10003"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="495300">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>文心</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>部分科技/Logo 氛围可用</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>英文替代与伪文字明显</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10004"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="495300">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>混元</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="F1F5F9"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>部分装饰性与色彩不错</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="F1F5F9"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:t>模板复用，提示词理解偏弱，成本高</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45720" marR="45720" marT="27432" marB="27432">
+                    <a:solidFill>
+                      <a:srgbClr val="F1F5F9"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10005"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+            </a:tbl>
+          </a:graphicData>
+        </a:graphic>
+      </p:graphicFrame>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="6" name="Rounded Rectangle 5"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="685800" y="4590288"/>
+            <a:ext cx="3337560" cy="1051560"/>
+          </a:xfrm>
+          <a:prstGeom prst="roundRect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="FFFFFF"/>
+          </a:solidFill>
+          <a:ln w="12700">
+            <a:solidFill>
+              <a:srgbClr val="E5E7EB"/>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:lnRef>
+          <a:fillRef idx="3">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="2">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="7" name="TextBox 6"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="914400" y="4754880"/>
+            <a:ext cx="1463040" cy="274320"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square">
+            <a:normAutofit fontScale="92500" lnSpcReduction="10000"/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="l">
+              <a:defRPr sz="1400" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="101828"/>
+                </a:solidFill>
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:t>合规提醒</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="8" name="TextBox 7"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="914400" y="5102352"/>
+            <a:ext cx="2743200" cy="411480"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square">
+            <a:normAutofit fontScale="92500"/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="l">
+              <a:defRPr sz="1000" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="667085"/>
+                </a:solidFill>
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:t>国产厂商身份不能替代合规审查，需核查地域、日志留存、附件处理、训练使用和企业 SLA。</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="9" name="Rounded Rectangle 8"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="4343400" y="4590288"/>
+            <a:ext cx="3337560" cy="1051560"/>
+          </a:xfrm>
+          <a:prstGeom prst="roundRect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="FFFFFF"/>
+          </a:solidFill>
+          <a:ln w="12700">
+            <a:solidFill>
+              <a:srgbClr val="E5E7EB"/>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:lnRef>
+          <a:fillRef idx="3">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="2">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="10" name="TextBox 9"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="4572000" y="4754880"/>
+            <a:ext cx="1463040" cy="274320"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square">
+            <a:normAutofit fontScale="92500" lnSpcReduction="10000"/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="l">
+              <a:defRPr sz="1400" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="101828"/>
+                </a:solidFill>
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:t>质量提醒</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="11" name="TextBox 10"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="4572000" y="5102352"/>
+            <a:ext cx="2743200" cy="411480"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="l">
+              <a:defRPr sz="1000" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="667085"/>
+                </a:solidFill>
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:t>AI 图表更适合概念插画，真实业务数据必须由结构化图表工具生成或复核。</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="12" name="Rounded Rectangle 11"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8001000" y="4590288"/>
+            <a:ext cx="3337560" cy="1051560"/>
+          </a:xfrm>
+          <a:prstGeom prst="roundRect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="FFFFFF"/>
+          </a:solidFill>
+          <a:ln w="12700">
+            <a:solidFill>
+              <a:srgbClr val="E5E7EB"/>
+            </a:solidFill>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:lnRef>
+          <a:fillRef idx="3">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="2">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="13" name="TextBox 12"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8229600" y="4754880"/>
+            <a:ext cx="1463040" cy="274320"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square">
+            <a:normAutofit fontScale="92500" lnSpcReduction="10000"/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="l">
+              <a:defRPr sz="1400" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="101828"/>
+                </a:solidFill>
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:t>生产提醒</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="14" name="TextBox 13"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8229600" y="5102352"/>
+            <a:ext cx="2743200" cy="411480"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square">
+            <a:normAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="l">
+              <a:defRPr sz="1000" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="667085"/>
+                </a:solidFill>
+                <a:latin typeface="Microsoft YaHei"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:t>上线前需追加多轮重试测试，记录成功率、延迟、失败重试和真实扣费。</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+</p:sld>
